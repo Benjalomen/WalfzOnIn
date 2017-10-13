@@ -6,7 +6,7 @@ public class WalfTailor {
 
 	public void measurementsTalk() {
 		
-		// 
+		// gd
 		Scanner input = new Scanner(System.in);
 		
 		//collect haunch measurement
